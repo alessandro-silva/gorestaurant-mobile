@@ -9,11 +9,11 @@
 > Crud de um restaurante de comida italiana :fried_shrimp:
 
 <p align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/54153011/91766442-97152580-eba8-11ea-9b58-b1ebd041ac22.png" alt="Mobile-Signin" height="300" border="0">
+  <img align="center" src="https://user-images.githubusercontent.com/54153011/91766442-97152580-eba8-11ea-9b58-b1ebd041ac22.png" alt="Mobile-Signin" height="500" border="0">
 </p>
 <br>
 <p align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/54153011/91766607-d8a5d080-eba8-11ea-993b-e4d300ecca70.png" alt="Mobile-Dashboard" height="300" border="0">
+  <img align="center" src="https://user-images.githubusercontent.com/54153011/91766607-d8a5d080-eba8-11ea-993b-e4d300ecca70.png" alt="Mobile-Dashboard" height="500" border="0">
 </p>
 <br>
 
